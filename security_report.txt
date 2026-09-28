@@ -1,0 +1,22 @@
+==========================================
+        LINUX LOGIN SECURITY REPORT
+==========================================
+
+Date and Time : Sun Sep 27 09:35:02 PM EDT 2026
+System User   : kali
+Hostname      : kali
+
+------------- LOGIN SUMMARY -------------
+
+Successful SSH Logins : 4
+Failed SSH Logins     : 3
+Alert Threshold       : 3
+
+Status  : SECURITY ALERT
+Message : Multiple failed SSH login attempts detected.
+
+--------- PUBLIC FAILED LOGIN IPS --------
+
+No public failed-login IP addresses found.
+
+==========================================

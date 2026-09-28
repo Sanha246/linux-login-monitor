@@ -1,0 +1,19 @@
+==========================================
+       LINUX LOGIN ACTIVITY REPORT
+==========================================
+
+Date and Time : Sat Sep 26 12:40:58 PM EDT 2026
+Current User : kali
+
+Successful SSH Logins : 1
+Failed SSH Logins     : 0
+
+Login Source IP Addresses
+------------------------------------------
+      1 ::1
+
+Recent SSH Events
+------------------------------------------
+Sep 26 12:04:55 kali sshd-session[17050]: Accepted password for kali from ::1 port 52434 ssh2
+
+==========================================
